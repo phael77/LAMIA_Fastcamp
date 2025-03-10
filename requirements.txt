@@ -1,4 +1,5 @@
 pydantic
+pydantic[email]
 fastapi
 httpx
 uvicorn
